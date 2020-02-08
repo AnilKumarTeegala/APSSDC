@@ -1,0 +1,20 @@
+### Day Objectives
+
+
+### Files
+Collection of data stored in the memory
+
+### Types of data
+
+- Structed data
+- Semi-structed data
+0 ### Day Objectives
+1 
+2 
+3 ### Files
+4 Collection of data stored in the memory
+5 
+6 ### Types of data
+7 
+8 - Structed data
+9 - Semi-structed data

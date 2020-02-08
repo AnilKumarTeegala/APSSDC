@@ -1,0 +1,27 @@
+### Day Objectives
+
+
+### Files
+Collection of data stored in the memory
+
+### Types of data
+
+- Structed data
+- Semi-structed data
+- Un-structed data
+
+## Un-structed data
+
+### Text files
+
+## Steps involved while working on files
+
+1. Open a file
+2. Do required operations
+3. Close the opened file
+
+## Modes of operation in Files
+
+- **r** Read
+- **w** write
+- **a** append
